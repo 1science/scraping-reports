@@ -1,3 +1,3 @@
 # scraping-reports
 
-Contains the scraping activity reports.
+Generates the scraping activity reports.
